@@ -1,2 +1,2 @@
-# Coffee-Ordering-Application
+# Coffee-Ordering-Android Application
 For Coffee
